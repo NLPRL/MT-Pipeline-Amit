@@ -1,0 +1,39 @@
+processed 88666 tokens with 41484 phrases; found: 40980 phrases; correct: 39498.
+accuracy:  98.23%; (non-O)
+accuracy:  98.39%; precision:  96.38%; recall:  95.21%; FB1:  95.79
+              BLK: precision:  94.83%; recall:  94.83%; FB1:  94.83  58
+              CCP: precision:  99.50%; recall:  99.62%; FB1:  99.56  3185
+            FRAGP: precision:  88.46%; recall:  93.24%; FB1:  90.79  78
+              JJP: precision:  93.56%; recall:  95.39%; FB1:  94.47  2034
+             NEGP: precision:  71.43%; recall: 100.00%; FB1:  83.33  7
+               NP: precision:  95.32%; recall:  93.38%; FB1:  94.34  26176
+              RBP: precision:  94.58%; recall:  96.73%; FB1:  95.64  406
+              VGF: precision:  99.44%; recall:  99.33%; FB1:  99.39  6296
+             VGNF: precision:  97.92%; recall:  96.97%; FB1:  97.44  1012
+             VGNN: precision:  98.96%; recall:  98.84%; FB1:  98.90  1728
+---- Result of BiLSTM-CRF ----
+
+                   recall precision  f1-score   support
+
+B-BLK                0.95      0.95      0.95        58
+B-CCP                1.00      1.00      1.00      3185
+B-FRAGP              0.90      0.95      0.92        78
+B-JJP                0.94      0.96      0.95      2034
+B-NEGP               0.71      1.00      0.83         7
+B-NP                 0.99      0.97      0.98     26176
+B-RBP                0.96      0.99      0.97       406
+B-VGF                1.00      1.00      1.00      6296
+B-VGNF               0.98      0.98      0.98      1012
+B-VGNN               0.99      1.00      1.00      1728
+I-BLK                0.00      0.00      0.00         1
+I-CCP                0.90      0.95      0.92        40
+I-FRAGP              0.43      0.60      0.50         7
+I-JJP                0.76      0.87      0.82       153
+I-NP                 0.97      0.99      0.98     31027
+I-RBP                0.96      0.97      0.97       101
+I-VGF                1.00      1.00      1.00      5913
+I-VGNF               0.98      0.98      0.98       439
+I-VGNN               1.00      0.99      0.99      2064
+O                    1.00      1.00      1.00      3949
+
+avg / total          0.98      0.98      0.98     84674

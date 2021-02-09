@@ -1,0 +1,6 @@
+हारल-थाकल	any	any	Unk	Unk	Unk
+जीव	any	any	Unk	Unk	Unk
+के	Unk	Unk	Unk	Unk	Unk
+प्रेमे	any	any	3	d	Unk
+सहारा	any	any	Unk	d	Unk
+रहे।	Unk	Unk	Unk	Unk	Unk

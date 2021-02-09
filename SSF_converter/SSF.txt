@@ -1,0 +1,34 @@
+1	((	
+1.1	यह	pn	<fs af=यह,,any,sg,3,d,Unk>
+	))
+2	((	
+2.1	एशिया	n	<fs af=एशिया,,any,sg,3,Unk,0>
+	))
+3	((	
+3.1	की	punc	<fs af=का,,Unk,Unk,Unk,Unk,Unk>
+	))
+4	((	
+4.1	सबसे	avy	<fs af=सबसे,,Unk,Unk,Unk,Unk,Unk>
+	))
+5	((	
+5.1	बड़ी	adj	<fs af=बड़ा,,f,sg,Unk,d,Unk>
+	))
+6	((	
+6.1	मस्जिदों	num	<fs af=मस्जिद,,any,pl,Unk,any,Unk>
+	))
+7	((	
+7.1	में	punc	<fs af=में,,Unk,Unk,Unk,Unk,Unk>
+	))
+8	((	
+8.1	से	punc	<fs af=से,,Unk,Unk,Unk,Unk,Unk>
+	))
+9	((	
+9.1	एक	num	<fs af=एक,,any,any,Unk,any,Unk>
+	))
+10	((	
+10.1	है	v	<fs af=है,,any,sg,any,Unk,Unk>
+	))
+11	((	
+11.1	।	punc	<fs af=।,,Unk,Unk,Unk,Unk,Unk>
+	))
+

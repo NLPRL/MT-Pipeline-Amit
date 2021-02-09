@@ -1,0 +1,6 @@
+हारल-थाकल	NULL	any	any	Unk	Unk	Unk
+जीव	NNPC	any	any	Unk	Unk	Unk
+के	NNP	Unk	Unk	Unk	Unk	Unk
+प्रेमे	NNPC	any	any	3	d	Unk
+सहारा	NNP	any	any	Unk	d	Unk
+रहे।	SYM	Unk	Unk	Unk	Unk	Unk
